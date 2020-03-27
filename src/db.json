@@ -1,0 +1,77 @@
+{
+  "clienti": [
+    {
+      "firstName": "eva",
+      "lastName": "kant",
+      "id": "ck83kg4ol0000tntl3mci6nmu"
+    },
+    {
+      "firstName": "eva",
+      "lastName": "kant",
+      "id": "ck83kgh5z0000totlac76hphl"
+    },
+    {
+      "firstName": "eva",
+      "lastName": "kant",
+      "id": "ck83nkdfc00009ytldypvemxl"
+    },
+    {
+      "firstName": "eva",
+      "lastName": "kant",
+      "id": "ck83ns05c0000ahtl3hpx4fda"
+    },
+    {
+      "firstName": "eva",
+      "lastName": "kant",
+      "id": "ck83ntiim0000aptleh3c4t5s"
+    },
+    {
+      "firstName": "eva",
+      "lastName": "kant",
+      "id": "ck83nu3hv0000artl21ywfa3y"
+    },
+    {
+      "firstName": "eva",
+      "lastName": "kant",
+      "id": "ck83nun6z0000astlbviu29ql"
+    },
+    {
+      "firstName": "eva",
+      "lastName": "kant",
+      "id": "ck83nv1by0000attl8v0q1iia"
+    },
+    {
+      "firstName": "eva",
+      "lastName": "kant",
+      "id": "ck83nvt2a0000autl9wiwcyxg"
+    }
+  ],
+  "tavoli": [
+    {
+      "firstName": "eva",
+      "lastName": "kant",
+      "id": "ck83nvt2o0003autlabizd3fg"
+    }
+  ],
+  "ristoranti": [
+    {
+      "firstName": "eva",
+      "lastName": "kant",
+      "id": "ck83nvt2m0002autld09j37rr"
+    }
+  ],
+  "piatti": [
+    {
+      "firstName": "eva",
+      "lastName": "kant",
+      "id": "ck83nvt2q0004autlanezakqo"
+    }
+  ],
+  "ordini": [
+    {
+      "firstName": "eva",
+      "lastName": "kant",
+      "id": "ck83nvt2l0001autle9po2pqd"
+    }
+  ]
+}
